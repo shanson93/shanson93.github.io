@@ -7,28 +7,17 @@ modified: 8-7-2014
 comments: false
 ---
 
-<h4 style="margin-bottom:0px;padding-top:10px;">Top-Tier Journal Publications</h4>
+<h4 style="margin-bottom:0px;padding-top:10px;">Working Papers</h4>
 <!-- Generated from JabRef by PubList by Truong Nghiem at 11:44 on 2015.09.10. -->
 <ul class="biblist">
 
-<!-- Item: Maninis2017 -->
+<!-- Item: Hanson2022 -->
 <li ><p>
-<a href="http://www.vision.ee.ethz.ch/~kmaninis" target="_blank">K.K. Maninis</a>, J. Pont-Tuset, <a href="https://biomedicalcomputervision.uniandes.edu.co" target="_blank">P. Arbeláez</a> and <a href="http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1" target="_blank">L. Van Gool</a><br><b>Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks</b><br>
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>,
-2017.
+<b>Institutional investors in the market for single-family housing: Where did they come from, where did they go?</b><br>
 <br />
-<a href="javascript:toggleBibtex('Maninis2017')">[BibTeX]</a>
-<a href="http://arxiv.org/abs/1701.04658" target="_blank">[PDF]</a> <a href="http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/"  target="_blank">[Project Page]</a>
-</p>
-<div id="bib_Maninis2017" class="bibtex noshow">
-<pre>
-@article{Maninis2017,
-  author = {Maninis, Kevis-Kokitsi and Pont-Tuset, Jordi and Arbel&aacute;ez, Pablo and Van Gool, Luc},
-  title = {Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks},
-  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
-  year = {2017}
-}
-</pre>
+<p>This paper analyzes the entry of institutional investors into the single family rental market in the aftermath of the Great Recession. I show that their entry is an equilibrium response to increased expected excess returns, driven by tightened household funding constraints through an increase in mortgage lending standards and declining real interest rates. Neighborhoods that institutional investors enter experience significant declines in housing affordability and home-ownership rates. A stylized model of a local housing market with funding constrained households and an unconstrained outside investor generates predictions consistent with my empirical evidence.</p>  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4268640"  target="_blank">[SSRN]</a>
+
 </div>
 </li>
   
