@@ -1,5 +1,6 @@
 ---
 layout: home2
+permalink: /home/
 title: Sebastian Hanson
 description: "Sebastian Hanson's website"
 tags: [Jekyll, theme, responsive, blog, template]
