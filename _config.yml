@@ -31,8 +31,8 @@ links:
     url: /cv/
   - title: Research
     url: /publications/
-  - title: Code
-    url: /code/
+  #- title: Code
+  #  url: /code/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
