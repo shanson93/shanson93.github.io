@@ -4,17 +4,17 @@ description:      Welcome to my site.
 url:              //shanson93.github.io
 #http://localhost:5000
 #https://shanson93.github.io
-#disqus_shortname: jponttuset
+#disqus_shortname: 
 
 # Owner/author information
 owner:
   name:           Sebastian Hanson
   avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
+  bio:            I am a PhD student at Stanford GSB interested in how financial markets interact with the outside world. 
   email:          shanson2@stanford.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   linkedin: sebastian-hanson-a7b469131
-  github: jponttuset
+  github: shanson93
 # Analytics and webmaster tools stuff goes here
 google_analytics: G-RK1CPV4DKG
 google_verify:
