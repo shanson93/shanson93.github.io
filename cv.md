@@ -7,5 +7,5 @@ modified: 8-7-2014
 comments: false
 ---
 
-You can also download my CV <a href="https://drive.google.com/file/d/1XN9dn-1obfdMG8CQIvWjHvhpO01Ek1ax/view?usp=sharing" target="_blank">here</a>.
+You can also download my CV <a href="https://www.dropbox.com/s/s7iuluywtff8h2y/CV%20SHanson%20English.pdf?dl=0" target="_blank">here</a>.
 
