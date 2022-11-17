@@ -18,5 +18,4 @@ This paper analyzes the entry of institutional investors into the single family 
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4268640"  target="_blank">[SSRN]</a>
   <a href="" target="_blank"> [Slides]</a>
 
-  </li>
-</ul> 
+
