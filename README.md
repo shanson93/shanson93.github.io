@@ -5,7 +5,7 @@ This site is based on Jordi Pont-Tuset's site which I was made aware of by looki
 
 ## License
 
-Feel free to adapt this theme to your site without linking back to me or including a disclaimer. If you want to acknowledge anyone, it is probably best you to reachout out to the original creator.  
+Feel free to adapt this theme to your site without linking back to me or including a disclaimer. If you want to acknowledge anyone, it is probably best you acknowledge and reach out to the original creator.  
 
 ## To run it locally
 ```
